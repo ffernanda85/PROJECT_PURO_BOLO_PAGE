@@ -1,10 +1,11 @@
 import styled from 'styled-components'
 
 export const ContainerHeader = styled.header`
-    background-color: #e5dbd0;
-    width: 100vw;
+    background-color: #a65e45;
+    max-width: 100vw;
     height: 18vh;
-    color: #5b3a30;
+    color: #e5dbd0;
+    border-bottom: 3px solid #5b3a30;
 `
 export const MenuContainer = styled.div`
     width: 75%;
@@ -20,6 +21,7 @@ export const LogoContainer = styled.div`
     gap: 1.5rem;
     font-family: 'Whisper', cursive;
     font-weight: bolder;
+    
     cursor: pointer;
     
     img {
@@ -31,6 +33,7 @@ export const LogoContainer = styled.div`
 export const Title = styled.p`
     font-size: 2.5rem;
     line-height: 15px;
+    
 `
 export const NavMenu = styled.nav`
      

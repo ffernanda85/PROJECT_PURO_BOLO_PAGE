@@ -1,20 +1,22 @@
 import * as s from './stylesCarousel'
 
-export const Carousel = () => {
+export const Carousel = ({item}) => {
+    const { name, price, oldPrice, image} = item
+    
     return (
         <s.Container>
-            <s.Logo>
+            {/* <s.Logo>
                 <img src="/static/images/super-shoes.png" alt="Super Shoes Logo" />
-            </s.Logo>
+            </s.Logo> */}
             <s.Carousel>
                 <s.Item>
                     <s.Image>
-                        <img src="https://imgcentauro-a.akamaihd.net/230x230/94313731.jpg" alt="shoe" />
+                        <img src={image} alt="shoe" />
                     </s.Image>
                     <s.Info>
-                        <s.Name>Super Shoe 1</s.Name>
-                        <s.OldPrice>U$ 299.00</s.OldPrice>
-                        <s.Price>U$ 199.00</s.Price>
+                        <s.Name>{ name }</s.Name>
+                        <s.OldPrice>U$ { oldPrice }</s.OldPrice>
+                        <s.Price>U$ { price } </s.Price>
                     </s.Info>
                 </s.Item>
             </s.Carousel>
