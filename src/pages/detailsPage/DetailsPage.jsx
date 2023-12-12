@@ -1,9 +1,10 @@
-import * as s from './styleDetailsPage'
+import { Header } from "../../components/header/Header";
+import * as s from "./styleDetailsPage";
 
 export const DetailsPage = () => {
-    return (
-        <>
-          <h1>Details Page</h1>  
-        </>
-    )
-}
+  return (
+    <>
+      <h1>Details Page</h1>
+    </>
+  );
+};

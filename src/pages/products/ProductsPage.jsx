@@ -1,3 +1,4 @@
+import { Header } from "../../components/header/Header"
 import * as s from "./styleProductsPage"
 
 export const ProductsPage = () => {

@@ -4,8 +4,7 @@ import * as s from './styleHomePage'
 export const HomePage = () => {
     return (
         <s.HomePageContainer>
-            <Header/>
-            
+            <h1>Home Page</h1>
         </s.HomePageContainer>
     )
 }

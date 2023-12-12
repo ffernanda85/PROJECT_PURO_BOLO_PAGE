@@ -12,6 +12,7 @@ export const GlobalStyle = createGlobalStyle`
         font-family: 'Rajdhani', sans-serif;
         width: 100%;
         min-height: 100vh;
+        color: #545252;
     }
 
 `;
