@@ -1,9 +1,10 @@
 import { Carousel } from "./components/carousel/Carousel";
+import { Router } from "./routes/Router";
 
 function App() {
   return (
     <>
-      <Carousel/>
+      <Router/>
     </>
   );
 }
