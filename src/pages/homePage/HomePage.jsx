@@ -1,31 +1,24 @@
-import { useEffect, useState } from "react";
 import { Carousel } from "../../components/carousel/Carousel";
 import * as s from "./styleHomePage";
 
 export const HomePage = () => {
-  const [data, setData] = useState([]);
-
-  useEffect(() => {
-    fetch("http://localhost:5173/static/shoes.json")
-      .then((response) => response.json())
-      .then(setData);
-  }, []);
-
-  if (!data || !data.length) return null;
-
+  
   return (
     <s.HomePageContainer>
       <h1>Home Page</h1>
-          <s.ContainerCarousel>
-              {data.map((item) => {
-                  return (
-                      <Carousel
-                      key={item.id}
-                      item={item}
-                      />
-                  )
-              })}
+      <s.ContainerCarousel>
+        <Carousel />
       </s.ContainerCarousel>
+      
+      {/* <s.ContainerButtons>
+        <s.LeftButton onClick={handleLeftClick} >
+          <img src="/static/images/216151_right_chevron_icon.png" alt="Left Button" />
+        </s.LeftButton>
+        
+        <s.RightButton onClick={(e) => handleRightClick(e, )}>
+          <img src="/static/images/216151_right_chevron_icon.png" alt="Right Button" />
+        </s.RightButton>
+      </s.ContainerButtons> */}
     </s.HomePageContainer>
   );
 };

@@ -5,9 +5,7 @@ export const HomePageContainer = styled.div`
     min-height: 100vh;
 `
 export const ContainerCarousel = styled.div`
-    max-width: 100vw;
-    min-height: 80vh;
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: center; 
 `
