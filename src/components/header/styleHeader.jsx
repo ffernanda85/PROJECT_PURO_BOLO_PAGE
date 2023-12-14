@@ -1,11 +1,11 @@
 import styled from 'styled-components'
 
 export const ContainerHeader = styled.header`
-    background-color: #a65e45;
+    background-color: /* #a65e45 */ #ddb2ba;
     max-width: 100vw;
-    height: 18vh;
-    color: #e5dbd0;
-    border-bottom: 3px solid #5b3a30;
+    height: 25vh;
+    color: /* #e5dbd0 */ #af7264 ;
+    border-bottom: 3px solid /* #5b3a30 */ #fff;
 `
 export const MenuContainer = styled.div`
     width: 75%;
@@ -19,8 +19,7 @@ export const LogoContainer = styled.div`
     display: flex;
     align-items: center;
     gap: 1.5rem;
-    font-family: 'Whisper', cursive;
-    font-weight: bolder;
+    font-family: 'Candy-Personal', 'Whisper', cursive;
     
     cursor: pointer;
     
@@ -40,7 +39,7 @@ export const NavMenu = styled.nav`
 `
 export const ItemContainer = styled.ul`
     display: flex;
-    gap: 2rem;
+    gap: 1.5rem;
 `
 export const Item = styled.li`
     list-style-type: none;

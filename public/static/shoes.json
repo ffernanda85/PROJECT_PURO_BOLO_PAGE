@@ -1,258 +1,194 @@
 [
   {
     "id": "94313731",
-    "name": "Tênis Nike Revolution 5 Max" ,
+    "name": "Pirulito de Chocolate" ,
     "price": 249.99,
     "oldPrice": 349.99,
-    "image": "https://imgcentauro-a.akamaihd.net/230x230/94313731.jpg"
+    "image": "https://uploaddeimagens.com.br/images/004/691/249/full/pirulitos_chocolate.jpg?1702591381"
   },
   {
     "id": "94313762",
-    "name": "Tênis Nike Revolution 5",
+    "name": "Confeitos",
     "price": 249.99,
     "oldPrice": 349.99,
-    "image": "https://imgcentauro-a.akamaihd.net/230x230/94313762.jpg"
+    "image": "https://uploaddeimagens.com.br/images/004/691/254/full/confeitos.jpg?1702591513"
   },
   
   { 
     "id": "943137XQ",
-    "name": "Tênis Nike Revolution 5",
+    "name": "Barra de Chocolate",
     "price": 249.99,
     "oldPrice": 349.99,
-    "image": "https://imgcentauro-a.akamaihd.net/230x230/943137XQ.jpg"
+    "image": "https://uploaddeimagens.com.br/images/004/691/259/full/barra_chocolate.jpg?1702591707"
   },
   {
     "id": "95077714",
-    "name": "Tênis Asics Patriot 12 Noosa",
+    "name": "Bombons Dourados",
     "price": 199.99,
     "oldPrice": 279.99,
-    "image": "https://imgcentauro-a.akamaihd.net/230x230/95077714.jpg"
+    "image": "https://uploaddeimagens.com.br/images/004/691/260/full/bombons_dourados.jpg?1702591961"
   },
   {
     "id": "9507779N",
-    "name": "Tênis Asics Patriot 12 Noosa",
+    "name": "Brownie Dourado",
     "price": 199.99,
     "oldPrice": 279.99,
-    "image": "https://imgcentauro-a.akamaihd.net/230x230/9507779N.jpg"
+    "image": "https://uploaddeimagens.com.br/images/004/691/261/full/browne_dourado.jpeg?1702592004"
   },
   {
     "id": "92601102",
-    "name": "Tênis Oakley Modoc Low 3.0",
+    "name": "Mousse Chocolate",
     "price": 449.99,
     "oldPrice": 559.99,
-    "image": "https://imgcentauro-a.akamaihd.net/230x230/92601102.jpg"
+    "image": "https://uploaddeimagens.com.br/images/004/691/262/full/mousse_chocolate.jpeg?1702592043"
   },
   {
     "id": "9465450R",
-    "name": "Tênis Nike Renew Run",
+    "name": "Bolo Brownie",
     "price": 279.99,
     "oldPrice": 399.99,
-    "image": "https://imgcentauro-a.akamaihd.net/230x230/9465450R.jpg"
+    "image": "https://uploaddeimagens.com.br/images/004/691/263/full/bolo_browne.jpeg?1702592081"
   },
   {
     "id": "95004531",
-    "name": "Tênis Nike Quest 3",
+    "name": "Doce Coração",
     "price": 299.99,
     "oldPrice": 449.99,
-    "image": "https://imgcentauro-a.akamaihd.net/230x230/95004531.jpg"
+    "image": "https://uploaddeimagens.com.br/images/004/691/264/full/doce_coracao.jpeg?1702592165"
   },
   {
     "id": "94672705",
-    "name": "Tênis adidas Lite Racer 20",
+    "name": "Bolo Chocolate",
     "price": 179.99,
     "oldPrice": 229.99,
-    "image": "https://imgcentauro-a.akamaihd.net/230x230/94672705.jpg"
+    "image": "https://uploaddeimagens.com.br/images/004/691/265/full/bolo_chocolate.jpeg?1702592208"
   },
   {
     "id": "92456602",
-    "name": "Tênis Infantil Puma Wired",
+    "name": "Bolo Natal",
     "price": 179.99,
     "oldPrice": 209.99,
-    "image": "https://imgcentauro-a.akamaihd.net/230x230/92456602.jpg"
+    "image": "https://uploaddeimagens.com.br/images/004/691/266/full/bolo_natal.jpeg?1702592242"
   },
   {
     "id": "94461431",
-    "name": "Tênis Infantil Nike Flex Runner",
+    "name": "Kit Brigadeiro",
     "price": 279.99,
     "oldPrice": null,
-    "image": "https://imgcentauro-a.akamaihd.net/230x230/94461431.jpg"
+    "image": "https://uploaddeimagens.com.br/images/004/691/267/full/kit_brigadeiro.jpeg?1702592277"
   },
   {
     "id": "95850662",
-    "name": "Tênis adidas Runfalcon 2.0",
+    "name": "Brigadeiro",
     "price": 199.99,
     "oldPrice": 279.99,
-    "image": "https://imgcentauro-a.akamaihd.net/230x230/95850662.jpg"
+    "image": "https://uploaddeimagens.com.br/images/004/691/268/full/brigadeiro.jpeg?1702592312"
   },
   {
     "id": "943137X8",
-    "name": "Tênis Nike Revolution 5",
+    "name": "Brownie",
     "price": 249.99,
     "oldPrice": 349.99,
-    "image": "https://imgcentauro-a.akamaihd.net/230x230/943137X8.jpg"
+    "image": "https://uploaddeimagens.com.br/images/004/691/269/full/browne.jpeg?1702592355"
   },
   {
     "id": "93227802",
-    "name": "Tênis Infantil Puma Wired",
+    "name": "Mousse",
     "price": 159.99,
     "oldPrice": 189.99,
-    "image": "https://imgcentauro-a.akamaihd.net/230x230/93227802.jpg"
+    "image": "https://uploaddeimagens.com.br/images/004/691/270/full/mousse.jpeg?1702592394"
   },
   {
     "id": "93828502",
-    "name": "Tênis Infantil Nike Pico 5 Baby",
+    "name": "Kit Empadão e Coca",
     "price": 139.99,
     "oldPrice": 179.99,
-    "image": "https://imgcentauro-a.akamaihd.net/230x230/93828502.jpg"
+    "image": "https://uploaddeimagens.com.br/images/004/691/271/full/kit_empadao_coca.jpeg?1702592430"
   },
   
   {
     "id": "95150929",
-    "name": "Tênis Asics Patriot 12",
+    "name": "Kit 02 Empadão",
     "price": 199.99,
     "oldPrice": 259.99,
-    "image": "https://imgcentauro-a.akamaihd.net/230x230/95150929.jpg"
+    "image": "https://uploaddeimagens.com.br/images/004/691/273/full/kit_02_empadao.jpeg?1702592717"
   },
   {
     "id": "95870805",
-    "name": "Tênis Asics Gel-Pacemaker",
+    "name": "Bolo 50 Anos",
     "price": 299.99,
     "oldPrice": 399.99,
-    "image": "https://imgcentauro-a.akamaihd.net/230x230/95870805.jpg"
+    "image": "https://uploaddeimagens.com.br/images/004/691/274/full/bolo_50_anos.jpeg?1702592774"
   },
   {
     "id": "95707805",
-    "name": "Tênis Mizuno Wave Prophecy X",
+    "name": "Bolo One Piece",
     "price": 1299.99,
     "oldPrice": 1499.99,
-    "image": "https://imgcentauro-a.akamaihd.net/230x230/95707805.jpg"
+    "image": "https://uploaddeimagens.com.br/images/004/691/275/full/bolo_one_peace.jpeg?1702592816"
   },
   {
     "id": "94672719",
-    "name": "Tênis adidas Lite Racer 20",
+    "name": "Bolo Aniversário",
     "price": 179.99,
     "oldPrice": 229.99,
-    "image": "https://imgcentauro-a.akamaihd.net/230x230/94672719.jpg"
+    "image": "https://uploaddeimagens.com.br/images/004/691/276/full/bolo_aniversario.jpeg?1702592884"
   },
   {
     "id": "95876431",
-    "name": "Tênis Asics Gel-Nagoya 3",
+    "name": "Pastelão",
     "price": 299.99,
     "oldPrice": 379.99,
-    "image": "https://imgcentauro-a.akamaihd.net/230x230/95876431.jpg"
+    "image": "https://uploaddeimagens.com.br/images/004/691/278/full/PASTELAO.jpeg?1702592994"
   },
  
   {
     "id": "95707845",
-    "name": "Tênis Mizuno Wave Prophecy X",
+    "name": "Folder Natal",
     "price": 1299.99,
     "oldPrice": 1499.99,
-    "image": "https://imgcentauro-a.akamaihd.net/230x230/95707845.jpg"
+    "image": "https://uploaddeimagens.com.br/images/004/691/279/full/NATAL_1.jpeg?1702593038"
   },
   {
     "id": "946545OX",
-    "name": "Tênis Nike Renew Run",
+    "name": "Bombom Natal",
     "price": 279.99,
     "oldPrice": 399.99,
-    "image": "https://imgcentauro-a.akamaihd.net/230x230/946545OX.jpg"
+    "image": "https://uploaddeimagens.com.br/images/004/691/281/full/BOMBOM_NATAL.jpeg?1702593082"
   },
   {
     "id": "9465450M",
-    "name": "Tênis Nike Renew Run",
+    "name": "Taça Uva",
     "price": 279.99,
     "oldPrice": 399.99,
-    "image": "https://imgcentauro-a.akamaihd.net/230x230/9465450M.jpg"
+    "image": "https://uploaddeimagens.com.br/images/004/691/282/full/TACA_UVA.jpeg?1702593120"
   },
   {
     "id": "95939145",
-    "name": "Tênis Fila Grand Prix",
+    "name": "Bombom 2",
     "price": 199.99,
     "oldPrice": 249.99,
-    "image": "https://imgcentauro-a.akamaihd.net/230x230/95939145.jpg"
+    "image": "https://uploaddeimagens.com.br/images/004/691/284/full/BOMBOM_2.jpeg?1702593152"
   },
   {
     "id": "95326905",
-    "name": "Tênis Fila Recovery",
+    "name": "Docinho Natal",
     "price": 259.99,
     "oldPrice": 299.99,
-    "image": "https://imgcentauro-a.akamaihd.net/230x230/95326905.jpg"
+    "image": "https://uploaddeimagens.com.br/images/004/691/285/full/DOCINHO_NATAL.jpeg?1702593189"
   },
   {
     "id": "951509X8",
-    "name": "Tênis Asics Patriot 12",
+    "name": "Docinho Natal 2",
     "price": 199.99,
     "oldPrice": 259.99,
-    "image": "https://imgcentauro-a.akamaihd.net/230x230/951509X8.jpg"
+    "image": "https://uploaddeimagens.com.br/images/004/691/286/full/DOCINHO_NATAL_2.jpeg?1702593241"
   },
   {
     "id": "9515093X",
-    "name": "Tênis Asics Patriot 12",
+    "name": "Folder Natal 2",
     "price": 199.99,
     "oldPrice": 259.99,
-    "image": "https://imgcentauro-a.akamaihd.net/230x230/9515093X.jpg"
-  },
-  {
-    "id": "9590484W",
-    "name": "Tênis Puma Anzarun SR BDP",
-    "price": 229.99,
-    "oldPrice": 329.99,
-    "image": "https://imgcentauro-a.akamaihd.net/230x230/9590484W.jpg"
-  },
-  {
-    "id": "943137D0",
-    "name": "Tênis Nike Revolution 5",
-    "price": 249.99,
-    "oldPrice": 349.99,
-    "image": "https://imgcentauro-a.akamaihd.net/230x230/943137D0.jpg"
-  },
-  {
-    "id": "9465459P",
-    "name": "Tênis Nike Renew Run",
-    "price": 279.99,
-    "oldPrice": 399.99,
-    "image": "https://imgcentauro-a.akamaihd.net/230x230/9465459P.jpg"
-  },
-  {
-    "id": "94218131",
-    "name": "Tênis Infantil Nike Court Borough Low 2",
-    "price": 199.99,
-    "oldPrice": 299.99,
-    "image": "https://imgcentauro-a.akamaihd.net/230x230/94218131.jpg"
-  },
-  {
-    "id": "95707858",
-    "name": "Tênis Mizuno Wave Prophecy X",
-    "price": 1299.99,
-    "oldPrice": 1499.99,
-    "image": "https://imgcentauro-a.akamaihd.net/230x230/95707858.jpg"
-  },
-  {
-    "id": "94876962",
-    "name": "Tênis adidas Lite Racer 2.0",
-    "price": 179.99,
-    "oldPrice": 249.99,
-    "image": "https://imgcentauro-a.akamaihd.net/230x230/94876962.jpg"
-  },
-  {
-    "id": "94313703",
-    "name": "Tênis Nike Revolution 5",
-    "price": 249.99,
-    "oldPrice": 349.99,
-    "image": "https://imgcentauro-a.akamaihd.net/230x230/94313703.jpg"
-  },
-  
-  {
-    "id": "93761902",
-    "name": "Tênis Oakley Modoc 2.0",
-    "price": 449.99,
-    "oldPrice": 649.99,
-    "image": "https://imgcentauro-a.akamaihd.net/230x230/93761902.jpg"
-  },
-  {
-    "id": "95150919",
-    "name": "Tênis Asics Patriot 12",
-    "price": 199.99,
-    "oldPrice": 259.99,
-    "image": "https://imgcentauro-a.akamaihd.net/230x230/95150919.jpg"
+    "image": "https://uploaddeimagens.com.br/images/004/691/287/full/NATAL_2.jpeg?1702593281"
   }
 ]
