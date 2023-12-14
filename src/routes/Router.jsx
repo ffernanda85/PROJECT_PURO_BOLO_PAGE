@@ -4,6 +4,7 @@ import { ProductsPage } from "../pages/products/ProductsPage";
 import { DetailsPage } from "../pages/detailsPage/DetailsPage";
 import { AboutUsPage } from "../pages/aboutUsPage/AboutUsPage";
 import { Header } from "../components/header/Header";
+import { Footer } from "../components/footer/Footer";
 
 export const Router = () => {
     return (
@@ -15,6 +16,7 @@ export const Router = () => {
                 <Route path="/details" element={<DetailsPage/>} />
                 <Route path="/about" element={<AboutUsPage/>} />
             </Routes>
+            <Footer/>
         </BrowserRouter>
     )
 }
