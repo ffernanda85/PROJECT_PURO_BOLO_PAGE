@@ -10,7 +10,7 @@ export const GlobalStyle = createGlobalStyle`
     
     body{
         font-family: 'Rajdhani', sans-serif;
-        width: 100%;
+        max-width: 100vw;
         min-height: 100vh;
         color: #545252;
         background-color: #e1e1e1;
